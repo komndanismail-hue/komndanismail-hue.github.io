@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.komndanismail_hue.twa",
-        "sha256_cert_fingerprints": ["4E:DF:A8:A4:51:13:A6:B7:41:6C:33:AD:58:AF:5E:34:DA:A7:54:2B:AF:7A:8C:04:1E:74:56:29:57:EE:75:96"]
-      }
-    }]
