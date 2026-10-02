@@ -1,8 +1,13 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.komndanismail_hue.twa",
-        "sha256_cert_fingerprints": ["4E:DF:A8:A4:51:13:A6:B7:41:6C:33:AD:58:AF:5E:34:DA:A7:54:2B:AF:7A:8C:04:1E:74:56:29:57:EE:75:96"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.komndanismail_hue.twa",
+    "sha256_cert_fingerprints": [
+      "4E:DF:A8:A4:51:13:A6:B7:41:6C:33:AD:58:AF:5E:34:DA:A7:54:2B:AF:7A:8C:04:1E:74:56:29:57:EE:75:96",
+      "F7:A9:8B:53:DE:EC:86:51:B5:ED:FE:F2:6F:0C:C0:5E:DA:DC:C4:48:38:6D:3E:F7:C0:EE:EB:7A:4D:78:4A:3A",
+      "70:18:D2:C1:38:89:62:E2:BC:69:F0:77:0D:C0:41:47:A7:45:1B:A0:BF:66:73:BB:94:17:80:D6:F0:E8:E4:98",
+      "E8:51:A1:20:A7:5E:76:7E:F5:77:E7:A2:81:8C:6F:72:4E:CA:2B:1D:5E:6B:57:8F:4F:19:9E:4D:F2:A8:5A:A9"
+    ]
+  }
+}]
